@@ -16,6 +16,7 @@ public class ProbaGit2 {
      */
     public static void main(String[] args) {
         System.out.println("1 ver. of the code");
+        System.out.println("2 ver. of the code");
     }
     
 }
